@@ -11,6 +11,7 @@ class Sample
       int mul=1;
       while(no!=o)
         {
+          
           mul=mul*no;
         }
       System.out.println(mul);
