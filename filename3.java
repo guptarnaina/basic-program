@@ -13,6 +13,7 @@ class Sample
         {
           
           mul=mul*no;
+          no++;
         }
       System.out.println(mul);
     }
